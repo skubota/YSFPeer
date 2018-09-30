@@ -11,6 +11,11 @@ Peer and Bridge to YSFReflectors.
 - gopkg.in/yaml.v2
 
 ## Build/Install
+- download
+	```
+	$ git clone 
+	```
+- build
 	```
 	$ make
 	$ make install
