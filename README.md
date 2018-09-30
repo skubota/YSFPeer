@@ -13,7 +13,7 @@ Peer and Bridge to YSFReflectors.
 ## Build/Install
 - download
 	```
-	$ git clone git@github.com:skubota/YSFPeer.git
+	$ git clone https://github.com/skubota/YSFPeer.git
 	```
 - build
 	```
