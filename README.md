@@ -11,7 +11,7 @@ Peer and Bridge to YSFReflectors.
 - gopkg.in/yaml.v2
 
 ## Build/Install
-	```console
+	```
 	$ make
 	$ make install
 	```
@@ -19,11 +19,11 @@ Peer and Bridge to YSFReflectors.
 
 - 1.Edit your config
 - 2.run
-        ```console
+        ```
         $ ./YSFPeer
         ```
 - Usage:
-        ```console
+        ```
         $ ./YSFPeer -h
 Usage of ./YSFPeer:
   -c string
