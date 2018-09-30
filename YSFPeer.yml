@@ -1,0 +1,28 @@
+#
+# YSFPeer.yaml 
+#
+Reflector:
+   host: localhost
+   port: 42000
+   name: YOURCALL
+#
+My:
+   BSN: 9999
+   port: 42001
+   pass: peerpassword1
+#
+Peer:
+  -
+    BSN: 0001
+    host: ref.ah-huh.net
+    port: 42001
+    pass: peerpassword1mustchange
+  -
+    BSN: 0099
+    host: ref.ah-huh.net
+    port: 42001
+    pass: peerpassword1mustchange
+#
+log:
+ level: 3
+# 0:NONE, 1:ERROR, 2:WARN,3:INFO,4:DEBUG
